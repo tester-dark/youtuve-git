@@ -1,0 +1,85 @@
+commit cf4e8ce932932a7695cf125a027ba6e9450c4b87
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 19:50:24 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio.
+
+commit c45941e06746d227eea34c77dc9af9303926318b
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 19:32:12 2023 -0600
+
+    Agregando estciones del año con fecha de inicio.
+
+commit 8f6387fb29aec6e903bd2a69b7310faa0b9f947f
+Merge: 9604a43 d379f9f
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 18:56:24 2023 -0600
+
+    Resolviendo conflcto merge main/html en index.html
+
+commit d379f9fa076ccb09b90c51c11e3c9595d6b11581
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 18:49:14 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 9604a43e0ee7ee21055c399eacccf6e2c37f8107
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 18:46:18 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 27cefe47db537a773084f3cff29509ddd5cbe649
+Merge: 059b12f 5a2130a
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 18:19:43 2023 -0600
+
+    Merge branch 'js'
+
+commit 5a2130a0b9790ec0361171e54afab6c76415a712
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 17:59:43 2023 -0600
+
+    Creando index.js
+
+commit 059b12fff525405ed099c82e195d6aa08309563c
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 17:54:48 2023 -0600
+
+    Creando style.css
+
+commit 0e74c0d97fb9e850b2d0849f0f317be9813c46fd
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 17:50:12 2023 -0600
+
+    Creando index.html
+
+commit 014994801a69f4d06e01d14177b2a8b00a283e8e
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 16:43:25 2023 -0600
+
+    ignorando rchivos .exe
+
+commit 5a7af07df0cd39d2ab5b8c76e6b05cf0c3c86606
+Author: tester-dark <deepspectrum@pm.me>
+Date:   Wed Mar 1 16:03:40 2023 -0600
+
+    Creando licencia para el repositorio
+
+commit ad08ae6e92b68a75b8a9dae658d80c464607d6e3
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 15:03:06 2023 -0600
+
+    Agregando mas contenido al README
+
+commit 116ff31c29c894d91a1640345e8d76101508fe2d
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 13:47:31 2023 -0600
+
+    README modificado
+
+commit 9d034af37f695ff3345b8d61fa6d8e8b63830156
+Author: Deep Spectrum <deepspectrum@pm.me>
+Date:   Wed Mar 1 13:26:41 2023 -0600
+
+    Primer comit 😃
